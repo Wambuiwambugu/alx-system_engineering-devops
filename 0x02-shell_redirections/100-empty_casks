@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -emty | cut -d'/' -f 1
